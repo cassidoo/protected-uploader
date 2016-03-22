@@ -6,7 +6,7 @@ pornographic content.
 
 To run:
 
- - Create a free account on [Clarifai's developer site](developer.clarifai.com)
+ - Create a free account on [Clarifai's developer site](http://developer.clarifai.com)
  - Create a new application
  - Run this in the terminal:
 
